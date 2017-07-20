@@ -1,6 +1,7 @@
-# react-orcirst 兽咬剑React
+# react-glamdring React敌击剑
 
-> react-webpack-boilerplate
+> react + react-route + mobx
+> webpack-boilerplate
 
 ### 编译流程
 ```
